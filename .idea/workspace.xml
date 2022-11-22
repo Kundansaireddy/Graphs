@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3db3d4eb-1667-49e5-862b-9996f79361a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/topologicalSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kahnsAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topologicalSortUsingDFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
